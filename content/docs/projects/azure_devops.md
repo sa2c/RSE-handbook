@@ -47,6 +47,6 @@ weight: 3
 
   - Previously meetings had associated “meeting attendances” associated with specific people; we do not currently record these.
 
-## Proposed changes 
+## Proposed Changes 
 
 - If any has capacity they can write a Vim client
