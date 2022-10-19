@@ -1,6 +1,6 @@
 ---
 # Page title as it appears in the navigation menu
-title: "Drop-in Sessions"
+title: "Tech Chat"
 # Adjust weight to reorder menu items (lower numbers appear first)
 weight: 1
 # Uncomment to hide nested pages in a collapsed menu
@@ -13,20 +13,20 @@ weight: 1
 
 # Tech Chat
 
-Current process: 
+- Current process:
 
-Ad-hoc schedule, historically Tuesdays 10-11am, conducted via Zoom 
+Ad-hoc schedule, historically Tuesdays 10-11am, conducted via Zoom
 
-A member of the team will give a presentation discussing a topic pertinent to their research, current projects or technical skills they are interested in. 
+A member of the team will give a presentation discussing a topic pertinent to their research, current projects or technical skills they are interested in.
 
-The most recent tech chat ‘series’ was ‘Getting to know us’, where members of the team gave presentations on their research interests 
+The most recent tech chat ‘series’ was ‘Getting to know us’, where members of the team gave presentations on their research interests
 
-Currently internal to the team, largely informal 
+Currently internal to the team, largely informal
 
-Proposed changes: 
+- Proposed changes:
 
-Consider resuming wider community tech chats 
+Consider resuming wider community tech chats
 
-Find someone to be responsible 
+Find someone to be responsible
 
-Defer for now 
+Defer for now
