@@ -9,18 +9,18 @@ weight: 7
 
 - ReCoN
 
-The RSE team can provide solutions via public stream.
+    - The RSE team can provide solutions via public stream.
 
-Each team member can provide support to users via PM for individual projects.
+    - Each team member can provide support to users via PM for individual projects.
 
-RSEs can provide specific support based on their skills.
+    - RSEs can provide specific support based on their skills.
 
 - Email
 
-SA2C can provide technical support via sa2c-support@swansea.ac.uk.
+    - SA2C can provide technical support via sa2c-support@swansea.ac.uk.
 
 - Meetings
 
-SA2C can provide technical support via scheduled in-person or online meetings.
+    - SA2C can provide technical support via scheduled in-person or online meetings.
 
 ## Proposed Changes
