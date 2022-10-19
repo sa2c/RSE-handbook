@@ -13,16 +13,14 @@ weight: 1
 
 # Regular Events
 
-## Coffee Chats
+## Standup
 
-- [Coffee Chats]({{< relref "/docs/regular_events/coffee_chats.md" >}})
+- [Standup]({{< relref "/docs/regular_events/standup.md" >}})
 
-## REG Events
+## Team Meeting
 
-- [Lunchtime tech talks]({{< relref "/docs/regular_events/lunchtime_tech_talks.md" >}})
-- [Lightning talks]({{< relref "/docs/regular_events/lightning_talks.md" >}})
-- [Reading groups]({{< relref "/docs/regular_events/reading_groups.md" >}})
+- [Team Meeting]({{< relref "/docs/regular_events/team_meeting.md" >}})
 
-## Outward-facing Events
+## Tech Chat
 
-- [Drop-in Sessions]({{< relref "/docs/regular_events/drop-in_sessions.md" >}})
+- [Tech Chat]({{< relref "/docs/regular_events/tech_chat.md" >}})

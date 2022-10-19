@@ -1,5 +1,5 @@
-baseURL = "https://alan-turing-institute.github.io/REG-handbook/"
-title = 'REG Handbook'
+baseURL = "https://sa2c.github.io/RSE-handbook/"
+title = 'RSE Handbook'
 theme = 'book'
 
 languageCode = 'en-gb'
@@ -20,15 +20,14 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 # After ToC
 [[menu.after]]
-  name = 'Research Engineering'
-  url = 'https://www.turing.ac.uk/research-engineering'
+  name = 'Swansea Academy of Advanced Computing (SA2C)'
+  url = 'https://www.swansea.ac.uk/compsci/swansea-academy-of-advanced-computing-sa2c/'
   weight = 10
-
+  
 [[menu.after]]
-  name = 'The Alan Turing Institute'
-  url = 'https://www.turing.ac.uk'
-  weight = 20
-
+  name = 'Supercomputing Wales'
+  url = 'https://www.supercomputing.wales/'
+  weight = 11
 
 # Needed for mermaid/katex shortcodes
 [markup]
@@ -47,7 +46,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alan-turing-institute/REG-handbook'
+  BookRepo = 'https://github.com/sa2c/RSE-handbook'
 
   # Path to commits in repository
   # URL is constructed as <BookRepo>/<BookCommitPath>/<commit-hash>

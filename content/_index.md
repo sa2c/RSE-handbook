@@ -3,4 +3,5 @@ title: Introduction
 type: docs
 ---
 
-# Hello world
+# Hello World!
+## Welcome to SA2C RSE Handbook

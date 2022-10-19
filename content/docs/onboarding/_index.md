@@ -12,3 +12,11 @@ weight: 2
 ---
 
 # Onboarding
+
+## Current Process
+
+- [Current Process]({{< relref "/docs/onboarding/current_process.md" >}})
+
+## Proposed Changes
+
+- [Proposed Changes]({{< relref "/docs/onboarding/proposed_changes.md" >}})
