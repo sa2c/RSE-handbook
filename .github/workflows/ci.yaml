@@ -132,4 +132,4 @@ jobs:
         run: |
           htmlproofer ./public \
           --swap-urls "^https\://sa2c.github.io/RSE-handbook/:/,^/RSE-handbook/:/,/edit/main:/edit/$(git branch --show-current)" \
-          --ignore-urls '/RSE-handbook,/swansea.ac.uk/,/swan.ac.uk/,/docs.github.com/'
+          --ignore-urls '/RSE-handbook,/swansea.ac.uk/,/swan.ac.uk/,/github.com/sa2c/record/,/docs.github.com/'

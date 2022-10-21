@@ -21,7 +21,7 @@ Run through the following checklist:
 
 - We try to keep an eye out for users asking questions related to topics we are able to support; we don't have very many of these at the moment, but it's something we hope will develop
 
-- We are the SA2C organisation on GitHub (https://github.com/sa2c); if you haven’t already been added, please remind Ed to do this.
+- We are the SA2C organisation on GitHub (https://github.com/sa2c), if you haven’t already been added, please remind Ed to do this.
 
 - If we are running training in the next few weeks, what are the topics, where is the material so that new starter can familiarize with it.
 
