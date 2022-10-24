@@ -97,6 +97,7 @@ Our main daily communication happens within the #SA2C-RSE stream. There is also 
 While using ReCoN please make sure to keep our conversations organised and easy to follow by the use of topics within our streams. You can even assign them in retrospective as conversations might very well drift from one topic to another.
 There are a few topics worth to be aware of:
 There is a Virtual Standup topic if you can\u0026rsquo;t attend the Standup. There is a Today I learned topic for small bits of interesting things you might stumble across in your daily work. Standup # This is discussed in more detail as a regular event in Standup.
+Azure DevOps # We use Azure DevOps for tracking the progress of our projects. Check out Azure DevOps for details.
 Interesting Slack Workspaces # You should consider becoming part of the RSE-Slack which started off as a nationwide RSE network but has even outgrown that and is more of an international platform by now. Lots of interesting discussions and topic-specific channels on there. Also, it is a good place to ask detailed technical questions.
 Others might be interesting depending on your precise affiliation. Talk to your line manager.
 Weekly # RSE Team Meetings # Details about the weekly team meetings are provided under Team Meeting. They constitute our main strategic coordination over the week.
