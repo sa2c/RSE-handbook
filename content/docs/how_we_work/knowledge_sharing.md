@@ -56,7 +56,8 @@ This is discussed in more detail as a regular event in
 You should consider becoming part of the [RSE-Slack](https://ukrse.slack.com)
 which started off as a nationwide RSE network but has even outgrown that and is
 more of an international platform by now. Lots of interesting discussions and
-topic-specific channels on there. 
+topic-specific channels on there. Also, it is a good place to ask detailed
+technical questions.
 
 Others might be interesting depending on your precise affiliation. Talk to your
 line manager.
@@ -71,7 +72,7 @@ They constitute our main strategic coordination over the week.
 
 ### Tech Chat and further events
 
-We once seem to have had further interesting formats. Given the small size of
+We seem to have had further interesting formats once. Given the small size of
 the team, the effort of organising these is non-neglible and there is no
 activity currently. But we all agreed upon working on this document that it
 would be nice to revive them, so stay tuned for updates here!
