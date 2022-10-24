@@ -51,6 +51,14 @@ There are a few topics worth to be aware of:
 This is discussed in more detail as a regular event in
 [Standup](https://sa2c.github.io/RSE-handbook/docs/regular_events/standup/).
 
+### Azure DevOps
+
+We use [Azure
+DevOps](https://dev.azure.com/swansea-university/Swansea%20Academy%20of%20Advanced%20Computing/_workitems/recentlyupdated/)
+for tracking the progress of our projects. Check out [Azure
+DevOps](https://sa2c.github.io/RSE-handbook/docs/projects/azure_devops/) for
+details.
+
 ### Interesting Slack Workspaces
 
 You should consider becoming part of the [RSE-Slack](https://ukrse.slack.com)
