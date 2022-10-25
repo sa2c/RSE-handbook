@@ -41,3 +41,8 @@ capitalisation in your variable names out of the way. You are welcome to discuss
 with the team before introducing new conventions but in the end you just
 configure your editor and/or pre-commit hooks to obey them and hopefully never
 again think about them. So, you don't need to agree with everything in there.
+
+In following these conventions, editor configurations are of great use. See
+[Configuring your
+editor](https://sa2c.github.io/RSE-handbook/docs/technical_practices/configuring_editors/)
+for details.

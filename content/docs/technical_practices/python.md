@@ -2,7 +2,7 @@
 # Page title as it appears in the navigation menu
 title: "Python Tools and Practices"
 # Adjust weight to reorder menu items (lower numbers appear first)
-weight: 3
+weight: 5
 ---
 
 # Python Tools and Practices
