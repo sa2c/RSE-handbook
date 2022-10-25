@@ -13,13 +13,12 @@ weight: 1
 
 # Standup
 
-## Current Process
-
 - The team has a daily Standup between 09:45 and 10:00 via Zoom.
-- Each team member summarises the work done yesterday and what to achieve today.
-- If a team member is not available to attend Stantup, he/she can update on ReCoN.
-- If some team members wish to discuss other specific items like technical solutions or coordinating other actions, those who wish to can stay on the Zoom call.
+- Topic
+    - What has been achieved in the last day
+    - What will be achieved in the next day 
+    - what could get in the way
+- If a team member is not available to attend Stantup, it can be updated on ReCoN.
+- (Optional) If some team members wish to discuss other specific items like technical solutions or coordinating other actions, those who wish to can stay on the Zoom call.
 
-## Proposed Changes
-
-- Add “what could get in the way” to standup topics as previously aimed for? 
+## Proposed changes

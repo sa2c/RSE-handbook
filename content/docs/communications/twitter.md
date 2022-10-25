@@ -27,6 +27,6 @@ This also gives you access to `` Some levels ``.
 - Blog posts
 - Talks
 - Conferences and workshops
-- Any public outputs — papers, published code _etc._
+- Any public outputs, papers, published code, _etc._
 
 Please refer to the ``SA2C Social Media Policy`` when making posts.
