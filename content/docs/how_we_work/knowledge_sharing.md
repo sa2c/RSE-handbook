@@ -84,3 +84,18 @@ We seem to have had further interesting formats once. Given the small size of
 the team, the effort of organising these is non-neglible and there is no
 activity currently. But we all agreed upon working on this document that it
 would be nice to revive them, so stay tuned for updates here!
+
+## (Roughly) Monthly
+
+### One-To-Ones
+
+We try to have one-to-one meetings with our line manager roughly every three
+to four weeks. Their explicit purpose is not to talk about technical details or
+project related things but rather anything about the working environment,
+personal development, management style, and other things that you feel could -- or
+already do -- contribute to how you feel about work. At the very least they are
+a nice and light conversation to get to know each other better, but if there is
+anything that you feel your line manager or the team could improve to make you
+feel better, this is a dedicated occasion and safe space to bring that up. Of
+course, you are welcome to share such things at any other time you feel
+comfortable doing so.
