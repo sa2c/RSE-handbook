@@ -26,7 +26,7 @@ purposes:
   - Providing a support channel for users to reach out to us
 
 The latter purpose is discussed under
-[Support](https://sa2c.github.io/RSE-handbook/docs/support/).
+[Support][support].
 
 Our main daily communication happens within the `#SA2C-RSE` stream. There is
 also a slightly broader (in terms of members) `#SA2C` stream as well as a
@@ -53,9 +53,7 @@ This is discussed in more detail as a regular event in
 
 ### Azure DevOps
 
-<!-- markdown-link-check-disable-next-line -->
-We use [Azure
-DevOps](https://dev.azure.com/swansea-university/Swansea%20Academy%20of%20Advanced%20Computing/_workitems/recentlyupdated/)
+We use [Azure DevOps][devops]
 for tracking the progress of our projects. Check out [Azure
 DevOps](https://sa2c.github.io/RSE-handbook/docs/projects/azure_devops/) for
 details.
@@ -100,3 +98,7 @@ anything that you feel your line manager or the team could improve to make you
 feel better, this is a dedicated occasion and safe space to bring that up. Of
 course, you are welcome to share such things at any other time you feel
 comfortable doing so.
+
+<!-- markdown-link-check-disable-next-line -->
+[devops]: https://dev.azure.com/swansea-university/Swansea%20Academy%20of%20Advanced%20Computing/_workitems/recentlyupdated/
+[support]: {{< relref "/docs/support" >}}
