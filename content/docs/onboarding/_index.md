@@ -121,7 +121,7 @@ This is where you:
 
 - Check and update your personnel information
   (some fields are read-only;
-  to update these, contact [the Faculty HR](fse-hr@swansea.ac.uk))
+  to update these, contact [the Faculty HR](mailto:fse-hr@swansea.ac.uk))
 - Register for centrally-provided training courses
 - Find your pay slips and tax paperwork (e.g. P60 forms)
 - Submit expenses claims
