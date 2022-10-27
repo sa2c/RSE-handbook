@@ -155,6 +155,8 @@ You may also with to consider joining
 [intranet]: https://intranet.swansea.ac.uk
 [service-desk]: https://servicedesk.swansea.ac.uk
 [soc-rse]: https://society-rse.org
+
+<!-- markdown-link-check-disable-next-line -->
 [staff-intranet]: https://staff.swansea.ac.uk
 [technical-practices]: {{< relref "/docs/technical_practices" >}}
 [training]: {{< relref "/docs/training" >}}

@@ -57,5 +57,7 @@ The information pages for these are available via Eduroam and the VPN.
 - What to post? For example, projects, talks, training workshops, conferences, public outputs (papers, published code etc.)?
 
 [recon]: https://recon.swansea.ac.uk
+<!-- markdown-link-check-disable -->
 [sa2c-training]: https://mailman.swan.ac.uk/mailman/listinfo/sa2c-training
 [sa2c-users]: https://mailman.swan.ac.uk/mailman/listinfo/sa2c-users
+<!-- markdown-link-check-enable -->

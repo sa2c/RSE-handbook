@@ -53,6 +53,7 @@ This is discussed in more detail as a regular event in
 
 ### Azure DevOps
 
+<!-- markdown-link-check-disable-next-line -->
 We use [Azure
 DevOps](https://dev.azure.com/swansea-university/Swansea%20Academy%20of%20Advanced%20Computing/_workitems/recentlyupdated/)
 for tracking the progress of our projects. Check out [Azure

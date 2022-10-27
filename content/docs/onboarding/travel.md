@@ -41,7 +41,9 @@ Conference fees, poster printing, etc. should be paid via
 the requisition system on ABW.
 Someone who has done this before can walk you through this process.
 
+<!-- markdown-link-check-disable -->
 [business-travel-policy]: https://staff.swansea.ac.uk/professional-services/finance-swansea-university/financial-guidance-and-policies/business-travel-policy-procedure/
 [expenses-policy]: https://staff.swansea.ac.uk/professional-services/finance-swansea-university/financial-guidance-and-policies/expenses-policy-procedure/
 [staff-intranet]: https://staff.swansea.ac.uk
+<!-- markdown-link-check-enable -->
 [travel-planet]: https://travelplanet.click
