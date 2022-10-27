@@ -8,7 +8,7 @@ weight: 5
 # Python Tools and Practices
 
 If none of the excluding reasons from the general [Tools and Best
-Practices](https://sa2c.github.io/RSE-handbook/docs/technical_practices#tools_and_best_practices)
+Practices][tools-and-best-practices]
 applies, do the following:
 
 - Autoformat your code with [black](https://github.com/psf/black)
@@ -24,3 +24,5 @@ We might at some point provide more details on how to do that here. It would be
 particularly nice to have a [cookiecutter](https://www.cookiecutter.io/)
 template to start from. For now, there are existing ones out there that get you
 most of the way.
+
+[tools-and-best-practices]: {{< relref "/docs/technical_practices#tools-and-best-practices" >}}

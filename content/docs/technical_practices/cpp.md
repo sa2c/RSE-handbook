@@ -8,7 +8,7 @@ weight: 4
 # C++ Tools and Practices
 
 If none of the excluding reasons from the general [Tools and Best
-Practices](https://sa2c.github.io/RSE-handbook/docs/technical_practices#tools_and_best_practices)
+Practices][tools-and-best-practices]
 applies, do the following:
 
 - Autoformat your code with
@@ -20,3 +20,5 @@ applies, do the following:
 - In case you start from scratch, use
   [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter).
   Otherwise, use it as a guideline as to how your code could look like.
+
+[tools-and-best-practices]: {{< relref "/docs/technical_practices#tools-and-best-practices" >}}
