@@ -62,12 +62,13 @@ The following steps are needed for a workshop.
 
 ## At the start of the workshop
 
-- We discuss the [housekeeping points](housekeeping).
+- We discuss the [housekeeping points][housekeeping].
 
 ## At the end of the workshop
 
-- We discuss the [housekeeping points](housekeeping).
+- We discuss the [housekeeping points][housekeeping].
 
 [carpentries-email]: https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html
 [delve]: https://delve.office.com
+[housekeeping]: {{< relref "housekeeping" >}}
 [intranet]: https://intranet.swansea.ac.uk
