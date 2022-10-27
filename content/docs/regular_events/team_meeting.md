@@ -30,5 +30,3 @@ Order of discussion:
 - Any Other Business (AOB) - raise miscellaneous items not covered in previous sections. Estimated time: 3-5 minutes.
 
 - (Optional) Follow-up meetings – if time remains in the hour allocation and some team members wish to discuss other specific items like technical solutions or coordinating other actions, those who wish to can stay on the Zoom call.
-
-## Proposed Changes
