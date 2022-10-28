@@ -116,12 +116,12 @@ at any other time you feel comfortable doing so.
 
 <!-- markdown-link-check-disable-next-line -->
 [devops]: https://dev.azure.com/swansea-university/Swansea%20Academy%20of%20Advanced%20Computing/_workitems/recentlyupdated/
-[devops-doc]: {{< relref "/docs/projects/azure_devops/" >}}
+[devops-doc]: {{< relref "/docs/projects/azure_devops.md" >}}
 [recon]: <https://recon.swansea.ac.uk>
 [standup-int]: {{< relref "#standup" >}}
-[standup]: {{< relref "/docs/regular_events/standup/" >}}
+[standup]: {{< relref "/docs/regular_events/standup.md" >}}
 [support]: {{< relref "/docs/support" >}}
-[team-meeting]: {{< relref "/docs/regular-events/team_meeting" >}}
+[team-meeting]: {{< relref "/docs/regular_events/team_meeting.md" >}}
 [topics]: <https://zulip.com/help/streams-and-topics>
 [ukrse-slack]: <https://ukrse.slack.com>
 [zulip]: <https://zulip.com/>
