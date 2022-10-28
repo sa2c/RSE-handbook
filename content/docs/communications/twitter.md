@@ -13,13 +13,18 @@ weight: 1
 
 # Twitter
 
-The group has a Twitter account [@sa2c_swansea](https://twitter.com/sa2c_swansea). The purpose of the account is to have an informal public-facing channel where we can communicate about projects we are working on, and to promote e.g. job opportunities. 
+The group has a Twitter account [@sa2c_swansea][sa2c-twitter].
+The purpose of the account is
+to have an informal public-facing channel
+where we can communicate about projects we are working on,
+and to promote e.g. job opportunities.
 
 ## Access
 
-If you want to tweet under the group account, ask ``the account controller`` for access.
+If you want to tweet under the group account,
+ask ``the account controller`` for access.
 
-This also gives you access to `` Some levels ``.
+This also gives you access to ``Some levels``.
 
 ## What to Post
 
@@ -30,3 +35,5 @@ This also gives you access to `` Some levels ``.
 - Any public outputs, papers, published code, _etc._
 
 Please refer to the ``SA2C Social Media Policy`` when making posts.
+
+[sa2c-twitter]: <https://twitter.com/sa2c_swansea>

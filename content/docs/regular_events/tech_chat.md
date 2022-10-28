@@ -13,20 +13,11 @@ weight: 1
 
 # Tech Chat
 
-## Current Process
-
 - Ad-hoc schedule, historically Tuesdays 10-11am, conducted via Zoom
-
-- A member of the team will give a presentation discussing a topic pertinent to their research, current projects or technical skills they are interested in.
-
-- The most recent tech chat ‘series’ was ‘Getting to know us’, where members of the team gave presentations on their research interests
-
+- A member of the team will give a presentation discussing a topic
+  pertinent to their research,
+  current projects
+  or technical skills they are interested in.
+- The most recent tech chat ‘series’ was ‘Getting to know us’,
+  where members of the team gave presentations on their research interests
 - Currently internal to the team, largely informal
-
-## Proposed Changes
-
-- Consider resuming wider community tech chats
-
-- Find someone to be responsible
-
-- Defer for now

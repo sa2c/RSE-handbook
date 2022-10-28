@@ -7,7 +7,9 @@ weight: 4
 
 This section describes how we coordinate our project work.
 
-It does not go into details of how individual projects are managed, but how RSE coordinates its commitments to the range of projects it's involved in.
+It does not go into details of how individual projects are managed,
+but how the RSE team coordinates its commitments
+to the range of projects it's involved in.
 
 ## Azure DevOps
 

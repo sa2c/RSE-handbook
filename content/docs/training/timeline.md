@@ -68,7 +68,7 @@ The following steps are needed for a workshop.
 
 - We discuss the [housekeeping points][housekeeping].
 
-[carpentries-email]: https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html
-[delve]: https://delve.office.com
+[carpentries-email]: <https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html>
+[delve]: <https://delve.office.com>
 [housekeeping]: {{< relref "housekeeping" >}}
-[intranet]: https://intranet.swansea.ac.uk
+[intranet]: <https://intranet.swansea.ac.uk>

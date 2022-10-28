@@ -64,7 +64,8 @@ Data to include immediately are:
 
 - the date this was identified,
 - the user’s name and their username,
-- the efficiency and number of idle node-hours (with the number that was concerning marked in bold),
+- the efficiency and number of idle node-hours
+  (with the number that was concerning marked in bold),
 - the name of the RSE responsible for investigating and following up on this.
 
 Where a guess at the cause can be made from the output of sacct,

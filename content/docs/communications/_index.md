@@ -42,20 +42,6 @@ We have two mailing lists for contacting people outside the team.
 
 The information pages for these are available via Eduroam and the VPN.
 
-## Proposed Changes
-
-- Include ReCoN in outgoing emails. (Discussed before)
-
-- Regular update on Twitter. (Who is managing this Twitter account?)
-
-- Include SA2C’s Twitter account in outgoing emails.
-
-- Do we have a social media policy?
-
-- Make it a group Twitter account?
-
-- What to post? For example, projects, talks, training workshops, conferences, public outputs (papers, published code etc.)?
-
 [recon]: https://recon.swansea.ac.uk
 <!-- markdown-link-check-disable -->
 [sa2c-training]: https://mailman.swan.ac.uk/mailman/listinfo/sa2c-training

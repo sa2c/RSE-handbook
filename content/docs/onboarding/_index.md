@@ -147,17 +147,17 @@ You can join without invitation using your @swansea.ac.uk email address.
 You may also with to consider joining
 [the Society of Research Software Engineering][soc-rse].
 
-[abw]: https://abw.swansea.ac.uk
+[abw]: <https://abw.swansea.ac.uk
 [communications]: {{< relref "/docs/communications" >}}
-[edenred]: https://www.edenred.uk.com/
-[fse-intranet]: https://fse-intranet.swansea.ac.uk
-[fse-rooms]: https://swanseauniversity.sharepoint.com/schools/science/rooms/
-[intranet]: https://intranet.swansea.ac.uk
-[service-desk]: https://servicedesk.swansea.ac.uk
-[soc-rse]: https://society-rse.org
+[edenred]: <https://www.edenred.uk.com/>
+[fse-intranet]: <https://fse-intranet.swansea.ac.uk>
+[fse-rooms]: <https://swanseauniversity.sharepoint.com/schools/science/rooms/>
+[intranet]: <https://intranet.swansea.ac.uk>
+[service-desk]: <https://servicedesk.swansea.ac.uk>
+[soc-rse]: <https://society-rse.org>
 
 <!-- markdown-link-check-disable-next-line -->
-[staff-intranet]: https://staff.swansea.ac.uk
+[staff-intranet]: <https://staff.swansea.ac.uk>
 [technical-practices]: {{< relref "/docs/technical_practices" >}}
 [training]: {{< relref "/docs/training" >}}
-[ukrse-slack]: https://ukrse.slack.com
+[ukrse-slack]: <https://ukrse.slack.com>
