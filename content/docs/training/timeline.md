@@ -21,23 +21,23 @@ The following steps are needed for a workshop.
 
 - Registrations are closed
 - A pre-workshop email is sent to those who have registered.
-  - Details of the programme,
-  This contains:
-  - Links to join the Zoom call if it is online,
-  - A pre-workshop survey,
-  - Information about the setup help session,
-  - A link to the code of conduct, and
-  - Instructions on how to set up their computer ready for the event
-  A template for the email is [provided by The Carpentries][carpentries-email]
+   - Details of the programme,
+   This contains:
+   - Links to join the Zoom call if it is online,
+   - A pre-workshop survey,
+   - Information about the setup help session,
+   - A link to the code of conduct, and
+   - Instructions on how to set up their computer ready for the event
+   A template for the email is [provided by The Carpentries][carpentries-email]
 - Registered participants are added to a shared spreadsheet in OneDrive,
   which records everyone who has attended any of our workshops.
-  - [Microsoft Delve][delve] is used to get more information on staff
-  - [The Intranet][intranet] is used to get more information on students
-  We record the college
-  (not faculty for legacy and precision reasons),
-  and the status
-  (student/researcher/academic/staff)
-  of each learner.
+   - [Microsoft Delve][delve] is used to get more information on staff
+   - [The Intranet][intranet] is used to get more information on students
+   We record the college
+   (not faculty for legacy and precision reasons),
+   and the status
+   (student/researcher/academic/staff)
+   of each learner.
 
 ## Around 24 hours before the workshop starts
 
@@ -45,9 +45,9 @@ The following steps are needed for a workshop.
   to allow anyone having difficulty with the setup instructions
   to get help before the workshop starts,
   rather than disrupting the event.
-  - One RSE should staff this.
-  - Typically no workshop participants attend these,
-    so they require little work.
+   - One RSE should staff this.
+   - Typically no workshop participants attend these,
+     so they require little work.
 
 ## The evening before the start of the workshop
 

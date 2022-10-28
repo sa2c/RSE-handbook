@@ -15,9 +15,9 @@ weight: 1
 
 - The RSE team has a daily Standup between 09:45 and 10:00 via Zoom.
 - Topic
-  - What has been achieved in the last day
-  - What will be achieved in the next day
-  - What could get in the way
+   - What has been achieved in the last day
+   - What will be achieved in the next day
+   - What could get in the way
 - If a team member is not available to attend Stantup,
   it can be updated on ReCoN.
 - (Optional) If some team members wish to discuss other specific items
