@@ -10,7 +10,9 @@ you should install the Git pre-commit hooks.
 These are managed using the `pre-commit` framework.
 Once you have installed `pre-commit`, you can then use
 
+```sh
     pre-commit install
+```
 
 to add the relevant hook to the repository
 so that your changes will be checked before they are committed.
