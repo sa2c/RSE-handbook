@@ -13,11 +13,6 @@ weight: 1
 
 # Tech Chat
 
-- Ad-hoc schedule, historically Tuesdays 10-11am, conducted via Zoom
-- A member of the team will give a presentation discussing a topic
-  pertinent to their research,
-  current projects
-  or technical skills they are interested in.
-- The most recent tech chat ‘series’ was ‘Getting to know us’,
-  where members of the team gave presentations on their research interests
-- Currently internal to the team, largely informal
+Tech Chats are a currently parked series of talks presented internally by the RSE team. They are conducted via Zoom, and have historically been on an ad-hoc schedule, typically Tuesdays from 10am to 11am. Tech chats are intended as an opportunity for RSE team members to give a presentation on a topic of interest, which can be related to their research, a project they are working on, particular technical skills or general software practices.
+
+The most recent tech chat series was ‘Getting to know us’, where members of the team gave presentations on their research interests. This series was largely informal and presented internally, though previous series were open to the general user base. No new tech chat series is currently in development, and organisation of further tech chats will be on a voluntary basis.
